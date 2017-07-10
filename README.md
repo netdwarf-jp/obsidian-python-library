@@ -1,0 +1,2 @@
+# NETDWARF obsidian - Python library
+
